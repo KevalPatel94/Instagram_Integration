@@ -1,0 +1,28 @@
+PODS:
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SwiftInstagram (1.1.2):
+    - SwiftInstagram/Core (= 1.1.2)
+  - SwiftInstagram/Core (1.1.2)
+  - WaterfallLayout (0.2)
+
+DEPENDENCIES:
+  - SDWebImage (~> 4.0)
+  - SwiftInstagram (~> 1.1.2)
+  - WaterfallLayout (~> 0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+    - SwiftInstagram
+    - WaterfallLayout
+
+SPEC CHECKSUMS:
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SwiftInstagram: 1579fd6ffb294de557bc47deddbe719fde6e2058
+  WaterfallLayout: 030e04b041e5c6c47ae2c1eaa685c60289fab0b1
+
+PODFILE CHECKSUM: b940e10f2542f0b11238bcde9d10233d45ca46cd
+
+COCOAPODS: 1.6.1
